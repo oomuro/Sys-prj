@@ -1,5 +1,6 @@
 *.pptx
 *.pptx#
 *.txt
+!CMakeLists.txt
 .idea
 build
