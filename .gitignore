@@ -1,0 +1,5 @@
+*.pptx
+*.pptx#
+*.txt
+.idea
+build
